@@ -2,6 +2,7 @@
 
 | Version | Compatible with | Module |
 |----------|----------------|--------|
+| v12 | `Android 16 JUNE 2026 Security Patch`| [Download](https://github.com/MeowDump/AOSP_Dialer/releases/download/Port/v12-AOSP-Dialer-Port-A16-QPR2-11-06-2026.zip) |
 | v11 | `Android 16 APRIL 2026 Security Patch`| [Download](https://github.com/MeowDump/AOSP_Dialer/releases/download/Port/v11-AOSP-Dialer-Port-A16-QPR2-14-04-2026.zip) |
 | v10 | `Android 16 MARCH 2026 Security Patch`| [Download](https://github.com/MeowDump/AOSP_Dialer/releases/download/Port/v10-AOSP-Dialer-Port-A16-QPR2-11-03-2026.zip) |
 | v9  | `Android 16 FEBRUARY 2026 Security Patch`| [Download](https://github.com/MeowDump/AOSP_Dialer/releases/download/Port/v9-AOSP-Dialer-Port-A16-QPR2-11-02-2026.zip) |
