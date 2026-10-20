@@ -1,6 +1,6 @@
 # Notes
 - Make sure a [any MetaMount overlayFS mounting module](https://github.com/backslashxx/mountify/releases) is installed before flashing this module
-- Open WebUI then lick on the RUN FIX button after rebooting your device, otherwise the app will crash
+- Open WebUI then click on the RUN FIX button after rebooting your device, otherwise the app will crash
 - Do this to enable auto call recording: `Dialer Settings` > `sounds & vibration` > `Auto call recording`
 - The app is ported from [Project Infinity X](https://projectinfinity-x.com/) custom ROM
 
