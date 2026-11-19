@@ -5,6 +5,14 @@
 - Versions v1–v13 are ported from [Project Infinity X](https://projectinfinity-x.com/).
 - Version v14 is ported from [AxionOS](https://github.com/AxionAOSP).
 
+> **Update Installation (v14 only):** If you're using a previous version of the AOSP Dialer port on Android 16 or 17, uninstall the Dialer updates first. Go to App Info >> tap the three-dot menu in the top-right corner >> **Uninstall updates**.
+>
+> Then flash v14, reboot, open the WebUI, and tap **Run Fix**.
+>
+> If you've already flashed v14 without uninstalling the updates, simply uninstall the Dialer updates, open the WebUI, and tap **Run Fix**.
+>
+> This will replace the previous Infinity X Dialer port with the AxionOS Dialer used in v14.
+
 # Downloads
 | Version | Compatible with | Module |
 |----------|----------------|--------|
