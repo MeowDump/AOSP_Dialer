@@ -2,11 +2,13 @@
 - Make sure a [any MetaMount overlayFS mounting module](https://github.com/backslashxx/mountify/releases) is installed before flashing this module
 - Open WebUI then click on the RUN FIX button after rebooting your device, otherwise the app will crash
 - Do this to enable auto call recording: `Dialer Settings` > `sounds & vibration` > `Auto call recording`
-- The app is ported from [Project Infinity X](https://projectinfinity-x.com/) custom ROM
+- Versions v1–v13 are ported from [Project Infinity X](https://projectinfinity-x.com/).
+- Version v14 is ported from [AxionOS](https://github.com/AxionAOSP).
 
 # Downloads
 | Version | Compatible with | Module |
 |----------|----------------|--------|
+| v14 | Android 16 & 17| [Download](https://github.com/MeowDump/AOSP_Dialer/releases/download/Port/v14-AOSP-Dialer-Port.zip) |
 | v13 | Android 17 QPR-1| [Download](https://github.com/MeowDump/AOSP_Dialer/releases/download/Port/v13-AOSP-Dialer-Port-A17-QPR1-21-10-2026.zip) |
 | v12 | Android 16 JUNE 2026 Security Patch| [Download](https://github.com/MeowDump/AOSP_Dialer/releases/download/Port/v12-AOSP-Dialer-Port-A16-QPR2-11-06-2026.zip) |
 | v11 | Android 16 APRIL 2026 Security Patch| [Download](https://github.com/MeowDump/AOSP_Dialer/releases/download/Port/v11-AOSP-Dialer-Port-A16-QPR2-14-04-2026.zip) |
