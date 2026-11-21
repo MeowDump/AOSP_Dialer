@@ -16,7 +16,7 @@
 # Downloads
 | Version | Compatible with | Module |
 |----------|----------------|--------|
-| v14 | Android 16 & 17| [Download](https://github.com/MeowDump/AOSP_Dialer/releases/download/Port/v14.1-AOSP-Dialer-Port.zip) |
+| v14 | Android 14 to 17| [Download](https://github.com/MeowDump/AOSP_Dialer/releases/download/Port/v14.1-AOSP-Dialer-Port-A14toA17.zip) |
 | v13 | Android 17 QPR-1| [Download](https://github.com/MeowDump/AOSP_Dialer/releases/download/Port/v13-AOSP-Dialer-Port-A17-QPR1-21-10-2026.zip) |
 | v12 | Android 16 JUNE 2026 Security Patch| [Download](https://github.com/MeowDump/AOSP_Dialer/releases/download/Port/v12-AOSP-Dialer-Port-A16-QPR2-11-06-2026.zip) |
 | v11 | Android 16 APRIL 2026 Security Patch| [Download](https://github.com/MeowDump/AOSP_Dialer/releases/download/Port/v11-AOSP-Dialer-Port-A16-QPR2-14-04-2026.zip) |
